@@ -1,6 +1,5 @@
 # ML-fundamental-knowledge & Python Learning
 
-# Python & Statistical Learning Portfolio
 
 A collection of Python programming exercises, learning notes, and machine learning coursework completed during my Statistics studies at UNSW.
 
